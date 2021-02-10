@@ -1,0 +1,6 @@
+.bg-banner {
+  background: url('./assets/home-banner.png') no-repeat top center;
+  background-position: center;
+  background-size: cover;
+  min-height: 890px;
+}
